@@ -1,0 +1,13 @@
+1. d) lambda
+
+2. c) A python file with .py extension
+
+3. d) import
+
+4. d) from math import sqrt
+
+5. a) IndentationError
+
+6. c) Exception
+
+7. c) try
